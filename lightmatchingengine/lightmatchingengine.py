@@ -5,6 +5,7 @@ class Side:
     """
     BUY = 1
     SELL = 2
+    SHORT = 3
 
 class OrderBook(object):
     """
